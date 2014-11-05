@@ -1,0 +1,9 @@
+//ext.zipFileName = 'esdksvr_sso_interface'
+
+//ext.zipProjectDirs = ['esdk_sso_base', 'esdk_sso_interface']
+
+//addDependentProject(project, "compile", "esdk_platform_common")
+
+dependencies {
+	//compile ':log4j:1.2.16'
+}

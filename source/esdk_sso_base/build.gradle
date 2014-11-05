@@ -1,0 +1,19 @@
+ext.zipFileName = 'esdksvr_sso_base'
+
+ext.zipProjectDirs = ['esdk_sso_base', 'esdk_sso_interface']
+
+addDependentProject(project, "compile", "esdk_platform_common")
+addDependentProject(project, "compile", "esdk_sso_interface")
+
+dependencies {
+	compile ':commons-io:2.4'
+	compile ':commons-digester3:3.2'
+	compile ':commons-logging:1.1.1'
+	compile ':dom4j:1.6.1'
+	compile ':gson:2.2.2'
+	compile ':log4j:1.2.16'
+	compile ':servlet-api:'
+}
+
+zipPackage_Copy << {
+}

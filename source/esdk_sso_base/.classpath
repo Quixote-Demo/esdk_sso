@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/platform/OpenAS/ONIP SOABean OpenAS V300R002C60/OpenAS_Tomcat7/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/cxf-2.6.14/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/log4j-1.2.16.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_platform_common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_sso_interface"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/commons-digester3-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_eSDK/01_source/eSDK_solution_V100R003/eSDK_Platform_V100R003/trunk/Server/open_src/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
