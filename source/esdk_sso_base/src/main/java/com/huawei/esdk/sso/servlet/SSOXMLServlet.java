@@ -47,6 +47,8 @@ public class SSOXMLServlet extends HttpServlet
         
         InputStream is = null;
         OutputStream os = null;
+        
+         LOGGER.info("IP：" + ip);
         try
         {
             if (!ips.contains(ip))
